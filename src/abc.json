@@ -4,26 +4,10 @@
         "open": true,
         "reload": true
     },
-    "root":"/Users/zhaoshunping/Desktop/yanwei/ditu/trunk/src/main/webapp/",
+    "root":"/",
     "proxy": {
         "/lbsApi": {
-            "target": "http://ditutest.tf56.com",
-            "changeOrigin":true
-        },
-        "/ehuodiCrmApi": {
             "target": "http://10.7.13.58",
-            "changeOrigin":true
-        },
-        "/ehuodiBedrockApi": {
-            "target": "http://10.7.28.14",
-            "changeOrigin":true
-        },
-        "/ditu": {
-            "target": "http://ditutest.tf56.com",
-            "changeOrigin":true
-        },
-        "/lbsFence": {
-            "target": "http://ditutest.tf56.com",
             "changeOrigin":true
         }
     }
