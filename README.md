@@ -1,5 +1,14 @@
 # dev-server
 
+实现页面自动刷新，跨域请求
+
+## Example
+```
+git clone git@github.com:olivianate/dev-server.git
+npm install
+npm run start 
+```
+
 ### 配置 src/abc.json 文件
 
 ---
@@ -11,6 +20,3 @@
 | root |  | 本地文件      |
 | proxy |      | 跨域请求 |
   
-  
-### run
-npm run start
