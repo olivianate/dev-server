@@ -1,6 +1,6 @@
 # dev-server
 
-##配置 src/abc.json 文件
+### 配置 src/abc.json 文件
 
 ---
 
@@ -12,5 +12,5 @@
 | proxy |      | 跨域请求 |
   
   
-## run
+### run
 npm run start
