@@ -1,6 +1,3 @@
-# dev-server
-
-实现页面自动刷新，跨域请求
 
 ## Example
 ```
@@ -9,7 +6,7 @@ npm install
 npm run start 
 ```
 
-### 配置 src/abc.json 文件
+### config src/abc.json 
 
 ---
 
