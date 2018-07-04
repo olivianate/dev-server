@@ -1,5 +1,5 @@
 
-## Example
+
 ```
 git clone git@github.com:olivianate/dev-server.git
 npm install
@@ -8,7 +8,6 @@ npm run start
 
 ### config src/abc.json 
 
----
 
 | 参数名            | 默认值  | 说明     |
 | -------------- | ---- | ------ |
